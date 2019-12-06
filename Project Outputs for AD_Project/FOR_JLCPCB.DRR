@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: FOR_JLCPCB.PcbDoc   06.12.2019  10:47:28
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : FOR_JLCPCB.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      24mil (0.6mm)                                             Round             24        PTH        6.03inch (153.25mm)
+T2      30mil (0.75mm)                                            Round             16        PTH        1.70inch (43.18mm)
+T3      32mil (0.8mm)                                             Round             36        PTH        7.66inch (194.48mm)
+T4      35mil (0.9mm)                                             Round             28        PTH        2.90inch (73.66mm)
+T5      39mil (1mm)                                               Round             24        PTH        8.03inch (203.90mm)
+T6      47mil (1.2mm)                                             Round             3         PTH        0.20inch (5.00mm)
+T7      118mil (3mm)                                              Round             4         PTH        9.37inch (238.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              135
+
+Total Processing Time (hh:mm:ss) : 00:00:00
